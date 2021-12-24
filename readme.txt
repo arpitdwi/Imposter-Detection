@@ -19,3 +19,4 @@ However a lot of mouse data has been removed from the folder mouse_data due to t
 As a result the generated pre-processed data will not be identical to the one already present and used by our model.
 Because it takes a lot of time for the full dataset, the resultant 'data.npy' file has already been stored along with the codes. 
 
+The project details can be found in the presentation and report.
